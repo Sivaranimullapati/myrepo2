@@ -1,0 +1,20 @@
+Git : Git is a version control system that tracks the changes to files. Here's how it works:
+ 1. Repository : A Git repository stores the complete history of changes.
+2. Commits: Changes are saved in snapshots called commits.
+3.Branches: Branches allow you to diverge from the main line of development and work on different features independently.
+4.merge : git merge command allows us take the independent lines of development created by git branch and merge them into a single branch.
+
+Git commands :
+
+1. git init : Initializes a new Git repository.
+2. git clone <repository-url> : Copies a repository from a server to our computer.
+3.git status : Shows the status of changes in your working directory.
+4. git add : it adds the changes whatever we made.
+5. git commit :This will opens a text editor to write the commit message.
+6.git log : displays the commit history.
+7.git branch <branch-name> : Creates a new branch.
+8. git merge <branch-name> : it merges branch into the main branch.
+9. git push : It transfers commits from local main branch to the main branch in the remote repository.
+10. git pull : it is used to fetch the changes from remote repository to our local repository.
+
+                
